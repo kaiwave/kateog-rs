@@ -1,0 +1,9 @@
+[package]
+name = "kqcprs-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.17.2"
+num-complex = "0.4.6"
+rand = "0.10.0"
